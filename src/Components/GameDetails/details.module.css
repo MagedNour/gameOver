@@ -1,0 +1,12 @@
+.thumbnail:hover{
+    opacity: 0;
+}
+.thumbnail{
+    transition: all 1s;
+}
+
+.layer{
+    background: linear-gradient(rgba(39,43,48,.9),#272b30);
+    height: 100vh;
+}
+

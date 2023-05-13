@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans&display=swap');
+
+body, nav {
+  background-color: rgb(39,43,48);
+
+}
+.submit-btn{
+  background-color: #3a3f44;
+  border-color: #22241d;
+}
+
+.navbar-brand{
+  font-family: 'Shantell Sans', cursive;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.main-color{
+  color: rgba(255, 255, 255, .55) !important;
+
+}
+
+.bg-gray{
+  background-color: #32383D;
+}
+
+.light-gray{
+  color: #AAAAAA;
+}
+
+.deep-dark{
+    background-color: #1c1e22;
+    border: 0 solid rgba(0,0,0,.6);
+    border-radius: 5px;
+    color: #fff;
+}
+
+.register input:focus {
+  background-color: #1c1e22 !important;
+  color: #fff !important;
+}
+
+.go-blue{
+  color: #49acff!important;
+}
+
+.badge-main{
+  background-color: #49acff!important;
+  padding: 0.5rem 0.2rem !important;
+  border-radius: 0.375rem !important;
+  color: #fff;
+  font-size: small;
+  font-weight: 600;
+}
+
+.item-bg{
+  background-color: #32383e;
+}
+
+.gItem{
+  transition: all 0.3s;
+}
+.gItem:hover{
+  transform: scale(1.05);
+}
