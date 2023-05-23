@@ -36,7 +36,7 @@ function Home() {
                         games!
                     </h1>
                     <p className='lead text-muted'>Track what you've played and search for what to play next! Plus get free premium loot! </p>
-                    <Link to={'/all'} className='btn btn-outline-secondary'>Browse Games</Link>
+                    <Link to={'/game/allgit'} className='btn btn-outline-secondary'>Browse Games</Link>
                 </div>
             </section>
 
